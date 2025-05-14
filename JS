@@ -1,0 +1,7 @@
+// Exemplo de um script simples que pode ser adicionado, se necessário.
+// Aqui você pode adicionar interações, animações ou outros recursos interativos.
+
+document.addEventListener("DOMContentLoaded", function() {
+    // Qualquer ação JavaScript pode ser colocada aqui.
+    console.log("GreenTech Solutions - Site Carregado!");
+});
